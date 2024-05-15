@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yerali01&label=Profile%20views&color=0e75b6&style=flat" alt="yerali01" /> </p>
 
-- 🌱 I’m currently learning **Python and wanna be in AI and Unity**
-
 - 💬 Ask me about **Flutter, Dart, Python, Firebase**
 
 - 📫 How to reach me **eraliflash@gmail.com**
